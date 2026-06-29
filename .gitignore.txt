@@ -1,0 +1,8 @@
+# Visual Studio / C#
+bin/
+obj/
+.vs/
+
+# Arduino
+.build/
+build/
