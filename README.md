@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/ESP32 ADC Calibration Curve with 4th-Degree Polynomial Model.png" alt="ADC Linearity Graph" width="600">
+</p>
+
 # ESP32 ADC Linearity Tester
 
 An electronics project to analyze and map the non-linear behavior of the ESP32 Internal ADC using two methods: direct voltage sweep (0-3.3V) and voltage divider resistance conversion.
